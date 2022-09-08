@@ -3,7 +3,7 @@ import {
     GET_BLOG_LIST_FAIL,
     GET_BLOG_SUCCESS,
     GET_BLOG_FAIL
-} from './types';
+} from '../actions/types';
 
 const initialState = {
     blog_list: null,
